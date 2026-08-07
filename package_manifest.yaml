@@ -5,7 +5,7 @@ build: bash scripts/build.sh
 start: bash scripts/start.sh
 
 package:
-  name: "robonix.primitive.n10p_lslidar"
+  name: "robonix.primitive.lslidar_n10p.lidar"
   version: 0.1.0
   description: N10P Lidar driver for 2D SLAM mapping and navigation.
   tags:
