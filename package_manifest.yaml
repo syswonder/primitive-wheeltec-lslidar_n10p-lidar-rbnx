@@ -16,7 +16,6 @@ package:
   license: Apache-2.0
 
 capabilities:
-  - name: robinix/primitive/lidar/driver
-  - name: robinix/primitive/lidar/lidar
-  - name: robinix/primitive/lidar/lidar_snapshot
+  - name: robonix/primitive/lidar/driver
+  - name: robonix/primitive/lidar/lidar
 depends: []
